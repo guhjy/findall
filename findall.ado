@@ -139,7 +139,7 @@ program findall
 	// -----------------------------------------------------------------------
 	copy "`tmp'" `"`anything'"', replace
 	view `"`anything'"', smcl
-	erase "`anything'"
+	capture erase "`anything'"
 	
 end
 
