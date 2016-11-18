@@ -1,0 +1,8 @@
+d 'FINDALL': a Stata module to search for Stata packages on GitHub, Stata Journal,
+d SSC, and the web. The command also shows the last update of the module on each 
+d server. 
+d
+d Distribution-Date: 20161118
+d
+F findall.ado
+F findall.sthlp
